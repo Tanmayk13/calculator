@@ -1,6 +1,6 @@
 # OIBGRIP
 OIB Submission
 
-In this repository, I have submitted all level 2 tasks for Oasis Infobyte Internship Submission
+In this repository, I have submitted level 2 task 1 - Calculator for Oasis Infobyte Internship Submission
 
 Thank You
