@@ -1,6 +1,1 @@
-# OIBGRIP
-OIB Submission
-
-In this repository, I have submitted level 2 task 1 - Calculator for Oasis Infobyte Internship Submission
-
-Thank You
+https://tanmayk13.github.io/calculator/
