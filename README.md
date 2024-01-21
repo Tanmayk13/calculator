@@ -1,1 +1,2 @@
-https://tanmayk13.github.io/calculator/
+# Calculator
+Simple Calculator Using HTML, CSS And Javascript
